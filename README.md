@@ -45,7 +45,7 @@ Open index.html in your preferred web browser.
 
 # 🌐 Live Demo
 
-# [Click to Visit](https://modifybits.fun)
+# [Click to Visit](http://3.108.252.255/)
 
 
 🎮 Usage
