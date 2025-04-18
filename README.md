@@ -45,7 +45,7 @@ Open index.html in your preferred web browser.
 
 # 🌐 Live Demo
 
-# [Click to Visit](http://3.108.252.255/)
+[Click to Visit](http://3.111.32.79/)
 
 
 🎮 Usage
