@@ -44,9 +44,8 @@ Open the Project:
 Open index.html in your preferred web browser.
 
 # 🌐 Live Demo
-
-[Click to Visit](http://3.111.32.79/)
-
+[See live](http://3.111.32.79/)
+---
 
 🎮 Usage
 
